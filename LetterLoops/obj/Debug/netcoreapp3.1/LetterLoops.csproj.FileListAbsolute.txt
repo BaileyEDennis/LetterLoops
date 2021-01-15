@@ -1,0 +1,13 @@
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.exe
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.deps.json
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.runtimeconfig.json
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.runtimeconfig.dev.json
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.dll
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\bin\Debug\netcoreapp3.1\LetterLoops.pdb
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.csprojAssemblyReference.cache
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.AssemblyInfoInputs.cache
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.AssemblyInfo.cs
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.dll
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.pdb
+C:\Users\baile\source\repos\Workspace\LetterLoops\LetterLoops\obj\Debug\netcoreapp3.1\LetterLoops.genruntimeconfig.cache
